@@ -10,6 +10,9 @@ button{
     padding: 10px 15px;
 
 }
+button:hover{
+    background-color: #e6b03a;
+}
 .raleway-font{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -168,4 +171,22 @@ font-size: 38px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
+}
+.footer-container{
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px 50px;
+}
+.footer-logo h1{
+    font-size: 100px;
+    color: #4E47FF;
+    margin: 20px 0;
+}
+.footer-content p{
+    margin: 10px 0;
+}
+.footer-content a{
+    text-decoration: none;
+    color:black;
+    margin-right: 15px;
 }
