@@ -71,3 +71,29 @@ button{
 .action-img img{
     border-radius: 50px;
 }
+.user-section{
+    margin-top: 50px;
+    padding: 50px 80px;
+    background-color: rgba(224, 202, 245, 0.63);
+    border-radius: 20px;
+}
+.user-section h2{
+text-align: center;
+font-size: 38px;
+}
+.data{
+    display: flex;
+    justify-content: center;
+    gap: 100PX;
+    margin-top: 30px;
+}
+.data-item h1{
+    font-size: 80px;
+    font-weight: 800;
+    color: #4E47FF;
+
+}
+.data-item  p{
+    font-size: 20px;
+    margin: 10px 15px;
+}
